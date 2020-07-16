@@ -24,13 +24,10 @@
 ### Implementation Of NewsAPI
 - **Home Page of the Webapp**
 - ![](1.png)
-
 - **Performing GET request from app**
 - ![](2.png)
-
 - **Performing POST request with custom parameters from app**
 - ![](3.png)
-
 - **Performing POST request with JSON parameters from app**
 - ![](4.png)
 
@@ -51,9 +48,10 @@
 
 ## Contact Us
 
-Reach out to me at one of the following places!
+Fell free to contact me for further suggestion!
 
-- Email at <a href="koustubhmishra91@gmail.com" target="_blank">`koustubhmishra91@gmail.com`</a>
+- Email :     <a href="koustubhmishra91@gmail.com" target="_blank">`koustubhmishra91@gmail.com`</a>
+- Instagram:  <a href="https://www.instagram.com/koustubh_mishra/?r=nametag" target="_blank">koustubh_mishra</a>
 
 
 ---
